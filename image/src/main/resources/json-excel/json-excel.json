@@ -1,0 +1,49 @@
+{
+	"body" : [
+	{ "name" : "Yeshwanth",
+	"age":24,
+	"department" : "Terrorist",
+	"salary" : 5000,
+	 "isManager" : true},
+	 { "name" : "Paul",
+	"age":52,
+	"department" : "Admin",
+	"salary" : 6000,
+	 "isManager" : true},
+	 { "name" : "Adam",
+	"age":45,
+	"department" : "Accounting",
+	"salary" : 4000,
+	 "isManager" : false},
+	 { "name" : "Ben",
+	"age":35,
+	"department" : "Engineering",
+	"salary" : 2000,
+	 "isManager" : false}
+	 ],
+"bodys" : [
+	{ "names" : "David",
+	"ages":32,
+	"departments" : "Accounting",
+	"salarys" : 5000,
+	 "isManagers" : true},
+	 { "names" : "Paul",
+	"ages":52,
+	"departments" : "Admin",
+	"salarys" : 6000,
+	 "isManagers" : true
+}
+],
+"bodys1" : [
+	{ "names" : "David",
+	"ages":32,
+	"departments" : "Accounting",
+	"salarys" : 5000},
+	 { "names" : "Paul",
+	"ages":52,
+	"departments" : {"Admin":"233"},
+	"salarys" : 6000
+}
+]
+
+}
